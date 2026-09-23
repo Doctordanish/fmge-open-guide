@@ -1,12 +1,13 @@
+
 # Telangana — FMG Internship & Registration
 
 **Last verified:** 23 September 2026
 
 **Information period:** Academic Year 2026–27
 
-This page collects information relevant to Foreign Medical Graduates (FMGs) seeking CRMI/internship and subsequent medical registration in Telangana.
+This page collects information relevant to Foreign Medical Graduates (FMGs) seeking Compulsory Rotating Medical Internship (CRMI) and subsequent medical registration in Telangana.
 
-> **Important:** This page distinguishes between information published by the National Medical Commission, State authorities, individual institutions, and community reports. The existence of an internship slot does not by itself establish an individual's eligibility or guarantee allotment.
+> **Important:** An institution appearing in the NMC CRMI matrix does not by itself establish an individual's eligibility, create a right to a particular institution, or guarantee allotment. FMGs must follow the applicable NMC, Telangana State Medical Council, Directorate of Medical Education, and institutional procedures.
 
 ---
 
@@ -31,75 +32,128 @@ The TSMC should be treated as a primary source for state-level medical registrat
 
 # 2. FMG CRMI Allocation — 2026–27
 
-The National Medical Commission issued a circular in March 2026 concerning allocation of CRMI slots for Foreign Medical Graduates for Academic Year 2026–27.
+The National Medical Commission issued a March 2026 notice concerning the allocation of CRMI slots for Foreign Medical Graduates for Academic Year 2026–27.
 
-The accompanying institution-wise matrix contains Telangana medical colleges and their identified FMG CRMI capacity.
+The institution-wise **Annexure-II** contains the Telangana medical colleges and the number of CRMI seats identified as available to FMGs.
 
-The NMC document should be treated as the primary source for the allocation figures.
+The NMC notice states that State Medical Councils, in consultation with the relevant Directorate of Medical Education, are responsible for allotment in accordance with the applicable framework.
 
-## Telangana institutions
+## Telangana CRMI seats
 
-The 2026–27 NMC matrix includes institutions such as:
+The following figures are taken from the NMC institution-wise CRMI matrix for AY 2026–27.
 
-| Institution | FMG CRMI seats identified |
+| Institution | FMG CRMI seats |
 |---|---:|
+| Apollo Institute of Medical Sciences and Research, Hyderabad | 11 |
+| Arundathi Institute of Medical Sciences, Malkajgiri | 150 |
+| Ayaan Institute of Medical Sciences, Teaching Hospital & Research Centre | 11 |
+| Bhaskar Medical College, Yenkapally | 11 |
+| Chalmeda Anand Rao Institute of Medical Sciences, Karimnagar | 15 |
+| CMR Institute of Medical Sciences | 250 |
 | Deccan College of Medical Sciences, Hyderabad | 11 |
-| Dr. Patnam Mahender Reddy Institute of Medical Sciences, Chevella | 61 |
+| Dr. Patnam Mahender Reddy Institute of Medical Sciences, Chevella, Rangareddy | 61 |
 | Dr. VRK Women's Medical College, Aziznagar | 8 |
-| ESIC Medical College, Sanath Nagar, Hyderabad | 58 |
+| Employees State Insurance Corporation Medical College, Sanath Nagar, Hyderabad | 58 |
 | Father Colombo Institute of Medical Sciences, Warangal | 150 |
-| Gandhi Medical College, Secunderabad | See NMC matrix |
+| Gandhi Medical College, Secunderabad | 19 |
+| Government Medical College, Bhadradri Kothagudem | 150 |
+| Government Medical College, Khammam | 100 |
+| Government Medical College, Mancherial | 100 |
+| Government Medical College, Ramagundam | 150 |
+| Government Medical College, Sangareddy | 150 |
+| Government Medical College, Jangaon | 100 |
+| Government Medical College, Jayashankar Bhupalpally | 100 |
+| Government Medical College, Jogulamba Gadwal | 50 |
+| Government Medical College, Kamareddy | 100 |
+| Government Medical College, Karimnagar | 100 |
+| Government Medical College, Kodangal | 50 |
+| Government Medical College, Kumuram Bheem Asifabad | 100 |
+| Government Medical College, Mahabubabad | 150 |
+| Government Medical College, Mahabubnagar | 13 |
+| Government Medical College, Maheshwaram | 50 |
+| Government Medical College, Medak | 50 |
+| Government Medical College, Mulugu | 50 |
+| Government Medical College, Nagarkurnool | 150 |
+| Government Medical College, Nalgonda | 11 |
+| Government Medical College, Narayanpet | 50 |
+| Government Medical College, Narsampet | 50 |
+| Government Medical College, Nirmal | 100 |
+| Government Medical College, Nizamabad | 9 |
+| Government Medical College, Qutbullapur | 50 |
+| Government Medical College, Rajanna Sircilla | 100 |
+| Government Medical College, Siddipet | 13 |
+| Government Medical College, Suryapet | 11 |
+| Government Medical College, Vikarabad | 100 |
+| Government Medical College, Yadadri | 50 |
+| Government Medical College, Jagtial | 150 |
+| Government Medical College, Wanaparthy | 150 |
+| Kakatiya Medical College, Warangal | 19 |
+| Kamineni Academy of Medical Sciences & Research Centre | 11 |
+| Kamineni Institute of Medical Sciences, Narketpally | 15 |
+| Mahavir Institute of Medical Sciences, Vikarabad | 200 |
+| Maheshwara Medical College, Chitkul, Patancheru, Medak | 11 |
+| Malla Reddy Institute of Medical Sciences, Hyderabad | 15 |
+| Malla Reddy Medical College for Women, Hyderabad | 15 |
+| Mamata Academy of Medical Sciences, Bachupally | 11 |
+| Mamata Medical College, Khammam | 61 |
+| Mediciti Institute of Medical Sciences, Ghanpur | 11 |
+| MNR Medical College & Hospital, Sangareddy | 150 |
+| Neelima Institute of Medical Sciences | 200 |
+| Nova Institute of Medical Sciences & Research Centre | 250 |
+| Osmania Medical College, Hyderabad | 19 |
+| Prathima Institute of Medical Sciences, Karimnagar | 65 |
+| Prathima Relief Institute of Medical Sciences, Hanamkonda | 150 |
+| R.V.M. Institute of Medical Sciences & Research Centre, Siddipet | 111 |
+| Rajiv Gandhi Institute of Medical Sciences, Adilabad | 9 |
+| S V S Medical College, Mahbubnagar | 11 |
+| Shadan Institute of Medical Sciences, Research Centre & Teaching Hospital | 11 |
+| Surabhi Institute of Medical Sciences, Siddipet | 61 |
+| TRR Institute of Medical Sciences, Patancheru | 150 |
 
-**Important:** This is not an exhaustive table of Telangana institutions. The complete institution-wise figures should be taken directly from the NMC 2026–27 annexure.
+### Telangana aggregate
 
-### Primary source
+NMC's state-wise Annexure-I reports **4,871 CRMI seats** for Telangana for AY 2026–27.
 
-**National Medical Commission**
-
-**Document:** Allocation of Compulsory Rotatory Medical Internship (CRMI) Slots for Foreign Medical Graduates (FMGs)
-
-**Academic Year:** 2026–27
-
-**Official source:**  
-https://www.nmc.org.in/MCIRest/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FLatestNews%2FCRMI_mergedPublicNotice.pdf
+The institution-wise matrix should be treated as the source for individual college figures. If totals calculated from reproduced tables differ from the NMC state aggregate, the discrepancy should be recorded rather than silently corrected.
 
 ---
 
-# 3. What does an NMC-listed slot mean?
+# 3. How the NMC allocation should be interpreted
 
-An institution appearing in the NMC allocation matrix should **not** automatically be interpreted to mean that an FMG can simply contact the institution and begin internship.
+The CRMI matrix is an **availability/allocation framework**, not an individual allotment list.
 
-The NMC allocation framework involves the relevant state authorities and institutional processes.
+An FMG should not assume that:
 
-Therefore, an FMG should verify:
+- every listed seat is directly available for walk-in admission;
+- contacting a college guarantees a place;
+- the number shown represents the number of FMGs who will ultimately join;
+- the college can independently bypass the state-level allotment process.
 
-1. Eligibility
-2. State Medical Council requirements
-3. Current allotment procedure
-4. Directorate of Medical Education requirements
-5. Institutional requirements
-6. Registration requirements
-7. Joining documentation
+The NMC framework involves the relevant State Medical Council and Directorate of Medical Education.
+
+Therefore, an FMG should verify the current state-level procedure before attempting to secure a CRMI position.
 
 ---
 
 # 4. Registration Sequence
 
-The NMC's current FMG-related material states that the relevant sequence includes:
+The general FMG pathway involves:
 
-1. Qualification of the Screening Test / FMGL Examination
-2. Submission of the required primary medical qualification and clerkship documentation
-3. Grant of provisional registration for undergoing CRMI
-4. Completion of the required CRMI in India
-5. Grant of permanent registration after satisfactory completion of CRMI
+1. Qualification of the applicable screening/licensing examination.
+2. Obtaining the required provisional registration for CRMI.
+3. Completing the required CRMI/internship in India.
+4. Obtaining the required completion documentation.
+5. Applying for permanent medical registration under the applicable regulations.
 
-The precise requirements applicable to an individual FMG must be checked against the current regulations and NMC clarifications.
+The precise requirements depend on the individual's circumstances and the regulations applicable to that FMG.
+
+FMGs should consult the current NMC regulations, NMC clarifications, and Telangana State Medical Council instructions rather than relying solely on secondary guides.
 
 ---
 
 # 5. Before Contacting a College
 
-An FMG should ideally have a document folder containing relevant records.
+An FMG should keep relevant documentation organised.
 
 Depending on the individual's circumstances and current requirements, this may include:
 
@@ -125,7 +179,8 @@ Before accepting an internship position, obtain clear information about:
 ### Registration
 
 - Is provisional registration required before joining?
-- Which authority must issue it?
+- Which authority issues it?
+- What documentation must be submitted?
 
 ### Internship
 
@@ -133,6 +188,7 @@ Before accepting an internship position, obtain clear information about:
 - Which departments are included?
 - What is the rotation schedule?
 - How is attendance recorded?
+- What documentation is issued on completion?
 
 ### Fees
 
@@ -154,12 +210,6 @@ If a stipend is applicable:
 - Is hostel accommodation available?
 - Is it compulsory?
 - What is the fee?
-
-### Documentation
-
-- What documents must be submitted?
-- Are originals required?
-- When are documents returned?
 
 Whenever possible, obtain important information in writing.
 
@@ -191,7 +241,7 @@ Such information should include the date and source wherever possible.
 
 # 8. Important Distinction
 
-This page separates four categories of information:
+This guide separates four categories of information:
 
 | Category | Meaning |
 |---|---|
@@ -204,11 +254,31 @@ This distinction should be preserved throughout the FMG Open Guide.
 
 ---
 
-# 9. Primary Sources
+# 9. Separate MBBS Seat-Matrix Data
+
+The NMC also publishes a separate **MBBS seat matrix** for Academic Year 2026–27.
+
+That dataset should **not** be confused with the CRMI/FM​​G allocation matrix on this page.
+
+The September 2026 MBBS seat matrix describes approved undergraduate MBBS seats, whereas the March 2026 CRMI matrix identifies CRMI seats available to FMGs.
+
+The two datasets may eventually be cross-referenced in this guide, but they should remain separate datasets.
+
+---
+
+# 10. Primary Sources
 
 ### National Medical Commission
 
 https://www.nmc.org.in/
+
+### NMC — CRMI Allocation Notice
+
+**Allocation of Compulsory Rotatory Medical Internship (CRMI) Slots for Foreign Medical Graduates (FMGs)**
+
+Academic Year 2026–27
+
+https://www.nmc.org.in/MCIRest/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FLatestNews%2FCRMI_mergedPublicNotice.pdf
 
 ### Telangana State Medical Council
 
@@ -220,18 +290,19 @@ https://natboard.edu.in/
 
 ---
 
-# 10. Verification History
+# 11. Verification History
 
 | Date | Information checked | Source |
 |---|---|---|
 | 23 September 2026 | Telangana State Medical Council details | NMC State Medical Council directory |
-| 23 September 2026 | Telangana FMG CRMI allocation | NMC 2026–27 CRMI allocation document |
-| 23 September 2026 | Current FMG regulatory documents | NMC Rules & Regulations |
+| 23 September 2026 | Telangana institution-wise FMG CRMI allocation for AY 2026–27 | NMC CRMI Allocation Notice, Annexure-II |
+| 23 September 2026 | Telangana aggregate CRMI availability | NMC CRMI Allocation Notice, Annexure-I |
+| 23 September 2026 | Current FMG regulatory framework | NMC Rules & Regulations |
 
 ---
 
 ## Page status
 
-**Status:** Initial Telangana framework
+**Status:** Telangana CRMI dataset added
 
-**Next update:** Add the complete 2026–27 Telangana institution-wise CRMI table and verify the current Telangana-specific allotment procedure from primary state sources.
+**Next update:** Verify the current Telangana-specific FMG allotment procedure and add primary-source state instructions when available.
