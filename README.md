@@ -1,53 +1,85 @@
 # FMGE Open Guide
 
-An open, community-maintained guide for Foreign Medical Graduates (FMGs) navigating medical licensure, internship, registration, and early-career practice in India.
+An open, source-driven guide for Foreign Medical Graduates (FMGs) navigating medical licensure, internship, registration, and related pathways in India.
 
-## What is this?
+## Start Here
 
-The FMGE Open Guide aims to collect practical, transparent, and up-to-date information that FMGs often have to piece together from scattered sources.
+If you are an FMG trying to understand what to do next, begin with:
 
-It is intended to help FMGs understand:
+- [Complete FMG pathway](docs/pathway.md)
+- [FMGE overview](docs/fmge/index.md)
+- [FMG Internship & CRMI](docs/internship/index.md)
+- [Medical registration](docs/registration.md)
+- [State-by-state information](docs/states/index.md)
 
-- FMGE and the licensing pathway
-- Internship requirements and processes
-- NMC and State Medical Council registration
-- Documents and administrative procedures
-- Common problems faced by FMGs
-- Hospital/internship selection
-- Practical post-FMGE steps
-- Career and postgraduate options
-- Frequently asked questions
-- Useful official resources
+## FMGE
 
-## Why this exists
+- [FMGE overview](docs/fmge/index.md)
+- [FMGE eligibility](docs/fmge/eligibility.md)
+- [FMGE application process](docs/fmge/application.md)
+- [FMGE examination & results](docs/fmge/exam-and-results.md)
+- [FMGE FAQ](docs/fmge/faq.md)
 
-Information for FMGs is often scattered across government websites, college notices, Reddit discussions, Telegram groups, YouTube videos, and word of mouth.
+## Internship & CRMI
 
-This project aims to create a **single, community-maintained knowledge base** while clearly separating:
+- [FMG Internship & CRMI](docs/internship/index.md)
+- [CRMI 2026–27](docs/internship/crmi-2026-27.md)
 
-- Official regulations
-- Institutional information
-- Community experiences
-- Personal opinions
+## Medical Registration
 
-## Disclaimer
+- [Medical registration — FMGs in India](docs/registration.md)
+- [Provisional registration](docs/provisional-registration.md)
+- [State-by-state information](docs/states/index.md)
 
-This guide is an informational community project and is not a substitute for official guidance from the National Medical Commission (NMC), State Medical Councils, NBEMS, universities, hospitals, or other competent authorities.
+## State Guides
 
-Rules and procedures can change. Always verify important information against the latest official source.
+- [Telangana](docs/states/telangana.md)
+
+More state-specific guides will be added as they are researched and verified.
+
+## Sources
+
+The guide prioritizes:
+
+1. National Medical Commission (NMC)
+2. National Board of Examinations in Medical Sciences (NBEMS)
+3. State Medical Councils
+4. Directorate of Medical Education / state government sources
+5. Official institutional notices
+
+Unofficial sources such as Reddit, Telegram, WhatsApp, forums, and community reports may be included when useful, but they are clearly identified as community information and are not treated as official requirements.
+
+## Important
+
+This is an independent community-maintained knowledge base.
+
+Rules, fees, application procedures, seat allocations, and institutional requirements can change. Always verify important requirements against the latest official notice before making decisions or paying fees.
+
+If you find an outdated, incorrect, or missing piece of information, please open an issue or submit a contribution.
 
 ## Contributing
 
-If you are an FMG and have useful information, corrections, experiences, or resources to contribute, you are welcome to help improve this guide.
+See [Resources](docs/resources.md) for the project's source and verification approach.
 
-More information about contributing will be added as the project develops.
+Contributions from FMGs are welcome, particularly:
+
+- State-specific registration information
+- CRMI/internship experiences
+- Official notices
+- Corrections to outdated information
+- Documentation of institutional requirements
 
 ## Project Status
 
-🚧 **Early development**
+This project is actively being built.
 
-The structure and content of the guide are currently being developed.
+Current coverage includes:
 
----
-
-**Repository:** [github.com/Doctordanish/fmge-open-guide](https://github.com/Doctordanish/fmge-open-guide)
+- FMGE
+- FMGE eligibility and application
+- FMGE examination and results
+- CRMI/internship
+- Medical registration
+- Provisional registration
+- Telangana state information
+- Telangana CRMI 2026–27 data
