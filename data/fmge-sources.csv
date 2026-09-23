@@ -1,4 +1,7 @@
-source_id,source_name,source_type,authority_level,access_type,can_be_used_for,notes,verification_date
-SRC001,NBEMS FMGE Information Bulletin,Official examination document,Highest,Public,Exam structure and official blueprint,Primary official source,2026-09-23
-SRC002,NBEMS FMGE official page,Official examination website,Highest,Public,Notices bulletins results and examination information,Primary official source,2026-09-23
-SRC003,NMC official regulations and notices,Official regulatory source,Highest,Public,Regulatory and medical education information,Primary official source,2026-09-23
+source_id,source_name,source_type,authority_level,sessions_covered,access_type,reuse_policy,recommended_use,notes,verification_date
+SRC001,NBEMS FMGE Information Bulletin,Official examination document,Highest,Multiple,Public,Do not reproduce examination content,Official exam structure and blueprint,Primary source for examination rules and official blueprint,2026-09-23
+SRC002,NBEMS FMGE official examination page,Official examination website,Highest,Current and archived sessions,Public,Do not reproduce examination content,Official notices bulletins results and examination information,Primary official source,2026-09-23
+SRC003,NMC official regulations and notices,Official regulatory source,Highest,Current and historical,Public,Follow source terms,Regulatory and medical education information,Primary regulatory source,2026-09-23
+SRC004,Careers360 FMGE question-paper archive,Memory-based secondary source,Moderate,2022-2026,Public,Do not copy source material into repository,Identify reported questions concepts and session coverage,Resources are explicitly described as memory-based because NBEMS does not publicly release the actual question paper,2026-09-23
+SRC005,PW MedEd FMGE recall and analysis,Coaching/review source,Moderate,2026,Public,Do not copy source material into repository,Subject and topic observations from recall sessions,June 2026 recall includes subject-wise review and topic discussion,2026-09-23
+SRC006,Reddit FMGE candidate reports,Candidate/community report,Low-Moderate,Session-specific,Public,Use only as attributed observations,Independent candidate experience and corroboration,User reports should not be treated as verified examination statistics,2026-09-23
