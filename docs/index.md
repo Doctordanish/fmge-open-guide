@@ -29,6 +29,8 @@ This is a community-maintained knowledge base for Foreign Medical Graduates navi
 - Common problems
 
 ### 4. Medical Registration
+
+- [Medical registration — FMGs in India](registration.md)
 - NMC requirements
 - State Medical Councils
 - Provisional registration
