@@ -1,0 +1,3 @@
+session,exam_date,source_id,evidence_type,subjects_covered,source_description,confidence,notes,verification_date
+June 2026,2026-06-28,SRC004,Memory-based recall,Multiple subjects,Careers360 memory-based reconstruction using candidate recalls and expert review,Moderate,Secondary reconstruction; not an official NBEMS question paper,2026-09-23
+June 2026,2026-06-28,SRC005,Recall and subject-wise review,Multiple subjects,PW MedEd recall and analysis organized by subject with discussion of recalled questions and topics,Moderate,Secondary recall source; use for cross-checking rather than official question counts,2026-09-23
