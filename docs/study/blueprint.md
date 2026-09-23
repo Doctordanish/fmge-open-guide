@@ -1,264 +1,348 @@
 # FMGE Study Blueprint
 
-The FMGE blueprint is intended to help candidates decide what to study, how deeply to study it, and how to allocate revision time.
+> **Status:** Official subject blueprint integrated  
+> **Last verified:** 23 September 2026
 
-## What This Blueprint Is
+## Purpose
 
-This is a **preparation blueprint**, not an official NBEMS question-distribution document.
+This page separates the **official FMGE examination blueprint** published by the National Board of Examinations in Medical Sciences (NBEMS) from the additional topic-level study guidance developed by this project.
 
-NBEMS publishes the examination structure and other official examination information. However, a preparation blueprint may require additional analysis of published examination patterns and candidate experience.
+The official blueprint tells us the marks allocated to each subject.
 
-Therefore, this guide separates:
-
-- Official examination information
-- Published syllabus information
-- Observed question patterns
-- Community-reported trends
-- Preparation recommendations
-
-These categories should not be treated as equivalent.
+It does **not** tell us which individual topics or questions will appear in a future examination.
 
 ---
 
-# 1. Official Examination Structure
+## 1. Official FMGE Blueprint
 
-The current FMGE examination consists of:
+The FMGE blueprint published by NBEMS allocates **300 marks** across pre/para-clinical and clinical subjects.
 
-- 300 questions
-- Two parts
-- 150 questions per part
-- 150 minutes per part
-- No negative marking
-- Passing score: 150/300
+### Pre/Para-clinical subjects — 100 marks
 
-Candidates should always verify examination details against the latest NBEMS Information Bulletin because examination procedures can change.
+| Subject | Marks |
+|---|---:|
+| Anatomy | 17 |
+| Physiology | 17 |
+| Biochemistry | 17 |
+| Pathology | 13 |
+| Microbiology | 13 |
+| Pharmacology | 13 |
+| Forensic Medicine | 10 |
+| **Total** | **100** |
 
-See:
+### Clinical subjects — 200 marks
 
-[FMGE examination and results](../fmge/exam-and-results.md)
+| Subject | Marks |
+|---|---:|
+| Medicine | 33 |
+| Psychiatry | 5 |
+| Dermatology & STD | 5 |
+| Radiotherapy | 5 |
+| General Surgery | 32 |
+| Anaesthesiology | 5 |
+| Orthopedics | 5 |
+| Radiodiagnosis | 5 |
+| Pediatrics | 15 |
+| Ophthalmology | 15 |
+| ENT | 15 |
+| Obstetrics & Gynaecology | 30 |
+| Community Medicine | 30 |
+| **Total** | **200** |
 
----
+**Grand total: 300 marks**
 
-# 2. Subject Framework
-
-FMGE preparation spans the major pre-clinical, para-clinical, and clinical disciplines of medical education.
-
-The working subject framework is:
-
-## Pre-clinical
-
-- Anatomy
-- Physiology
-- Biochemistry
-
-## Para-clinical
-
-- Pathology
-- Pharmacology
-- Microbiology
-- Forensic Medicine
-- Community Medicine
-
-## Clinical
-
-- General Medicine
-- Psychiatry
-- Dermatology
-- Pediatrics
-- General Surgery
-- Orthopedics
-- Anaesthesiology
-- Radiodiagnosis
-- Obstetrics and Gynecology
-- Ophthalmology
-- Otorhinolaryngology
+Source: NBEMS FMGE Information Bulletin. See [`data/fmge-blueprint.csv`](../../data/fmge-blueprint.csv).
 
 ---
 
-# 3. Priority Categories
+## 2. What the Official Blueprint Means
 
-The guide uses preparation priority rather than claiming an official subject ranking.
-
-### Priority A — Core
-
-Subjects and topics that should receive substantial preparation time because of their clinical breadth, integration with other subjects, and/or documented examination relevance.
-
-Examples may include:
-
-- Medicine
-- Surgery
-- Obstetrics and Gynecology
-- Pathology
-- Pharmacology
-- Microbiology
-- Community Medicine
-
-The exact priority of individual topics should be supported by evidence before being presented as a definitive ranking.
-
-### Priority B — Strong Coverage
-
-Subjects that require systematic preparation but may have a smaller overall study burden than the largest disciplines.
-
-Examples may include:
-
-- Pediatrics
-- Orthopedics
-- Anatomy
-- Physiology
-- Biochemistry
-
-### Priority C — Focused Preparation
-
-Subjects where targeted preparation, image recognition, high-yield concepts, and question practice may provide efficient coverage.
-
-Examples may include:
-
-- Ophthalmology
-- ENT
-- Psychiatry
-- Dermatology
-- Forensic Medicine
-- Anaesthesiology
-- Radiodiagnosis
-
-These categories are a preparation framework, not an official NBEMS classification.
-
----
-
-# 4. Topic-Level Blueprint
-
-The eventual blueprint will operate at the topic level rather than only at the subject level.
+The official subject distribution is the highest-confidence information available for planning study time.
 
 For example:
 
-| Subject | Topic | Evidence | Preparation Priority | Notes |
-|---|---|---|---|---|
-| Medicine | Cardiology | To be documented | To be determined | — |
-| Medicine | Respiratory medicine | To be documented | To be determined | — |
-| Medicine | Neurology | To be documented | To be determined | — |
-| Surgery | Trauma | To be documented | To be determined | — |
-| Pharmacology | Autonomic pharmacology | To be documented | To be determined | — |
-| Pathology | Hematology | To be documented | To be determined | — |
+- Medicine — 33 marks
+- General Surgery — 32 marks
+- Obstetrics & Gynaecology — 30 marks
+- Community Medicine — 30 marks
+- Anatomy — 17 marks
+- Physiology — 17 marks
+- Biochemistry — 17 marks
 
-The final topic-level blueprint should be based on documented evidence rather than intuition alone.
+These allocations can be used to establish the broad structure of a preparation plan.
 
----
-
-# 5. Evidence Categories
-
-Each blueprint entry should eventually be assigned an evidence category.
-
-### Official
-
-Explicitly supported by an authoritative examination document or regulation.
-
-### Documented Pattern
-
-Supported by analysis of a sufficiently documented set of examination questions or reliable historical data.
-
-### Repeated Observation
-
-Reported consistently across multiple independent sources but not supported by a complete dataset.
-
-### Community Report
-
-Reported by candidates or educators without sufficient independent verification.
-
-### Editorial Recommendation
-
-A study recommendation made by the maintainers of this guide.
-
-These categories should not be presented as equivalent.
+However, the official blueprint does **not** provide a guaranteed topic-by-topic distribution.
 
 ---
 
-# 6. How to Interpret Priority
+## 3. What This Project Will Add
 
-A high-priority topic does not mean that the topic will definitely appear in the next examination.
+The FMGE Open Guide will progressively build a second layer of evidence below the official blueprint.
 
-Likewise, a low-priority topic should not automatically be skipped.
+### Layer 1 — Official examination structure
 
-Priority is intended to help candidates allocate limited preparation time.
+Source:
 
-Candidates with sufficient preparation time should aim for broad coverage rather than relying exclusively on predicted topics.
+- NBEMS information bulletins
+- NBEMS official notices
+- Other authoritative examination documents
 
----
+Confidence:
 
-# 7. Question-Based Learning
-
-The blueprint should eventually connect topics to question practice.
-
-For each topic, the ideal study workflow is:
-
-1. Learn the core concept.
-2. Solve relevant MCQs.
-3. Review incorrect questions.
-4. Record recurring errors.
-5. Revisit the topic during spaced revision.
-6. Test retention with mixed questions.
-
-Question banks should be used as learning tools rather than simply as sources of scores.
+**Highest**
 
 ---
 
-# 8. Revision Framework
+### Layer 2 — Topic taxonomy
 
-A candidate's revision plan should generally progress from:
+The project maintains a structured list of subjects, topics and subtopics.
 
-**First exposure → Question practice → Error correction → Spaced revision → Mixed recall → Mock examination**
+See:
 
-The appropriate number and timing of revision cycles will depend on the candidate's available preparation time.
+[`data/fmge-topics.csv`](../../data/fmge-topics.csv)
 
----
+This taxonomy is intended to make the study guide searchable and structured.
 
-# 9. Mock Examination Strategy
-
-Mocks can be used to assess:
-
-- Knowledge gaps
-- Recall speed
-- Time management
-- Question selection
-- Endurance
-- Test-taking errors
-
-Mock scores should not be interpreted as guaranteed predictors of the actual FMGE result.
-
-The most useful output from a mock is often the **error analysis**, rather than the numerical score alone.
+It is **not** presented as an official NBEMS topic list.
 
 ---
 
-# 10. Blueprint Development
+### Layer 3 — Question-level evidence
 
-This blueprint is intentionally incomplete.
+Future versions of this project may collect structured information from:
 
-Future versions should incorporate:
+- Previous-year questions
+- Legally available question banks
+- User-contributed recall data
+- Publicly documented examination discussions
+- Repeated concepts reported across multiple sources
 
-- Verified examination information
-- Topic-level question analysis
-- Historical question trends
-- Image-based question categories
-- Integrated clinical topics
-- Common candidate errors
-- Revision priority
-- Resource mapping
-
-When new evidence is added, the source and verification date should be recorded.
+Each source should be labelled according to its evidence level.
 
 ---
 
-# 11. Important Limitation
+### Layer 4 — Study recommendations
 
-FMGE is an examination with a changing question pool.
+Only after sufficient evidence is collected should the project make recommendations such as:
 
-No blueprint can reliably predict the exact questions that will appear in a future examination.
+- high-frequency topics
+- commonly tested concepts
+- revision priorities
+- subject-specific study strategies
+- question-solving priorities
 
-Candidates should therefore use the blueprint to **allocate preparation effort**, not to eliminate large areas of the syllabus based on predictions.
+These are **study recommendations**, not official examination specifications.
 
 ---
 
-## Status
+## 4. Evidence Classification
 
-**Blueprint framework established.**
+Every important claim in the study guide should be classified.
 
-Topic-level evidence mapping is under development.
+| Evidence level | Meaning |
+|---|---|
+| **Official** | Directly stated by NBEMS/NMC or another authoritative body |
+| **Primary evidence** | Direct examination or institutional documentation |
+| **Repeated observation** | Pattern observed across multiple independent sources |
+| **Community report** | Candidate-reported experience or recall |
+| **Interpretation** | Analysis derived from available evidence |
+| **Advice** | Practical recommendation from this project |
+
+The distinction is important.
+
+For example:
+
+> "Medicine carries 33 marks."
+
+is an **official** claim.
+
+Whereas:
+
+> "Cardiology is high-yield."
+
+would require supporting evidence and should not be presented as an official NBEMS statement.
+
+---
+
+## 5. Topic-Level Blueprint
+
+The topic-level blueprint is currently under development.
+
+See:
+
+[`data/fmge-topics.csv`](../../data/fmge-topics.csv)
+
+At present, the topic taxonomy provides the structural framework but does not assign unsupported probabilities or mark distributions to individual topics.
+
+### Future topic-level fields
+
+As evidence is collected, topics may eventually receive fields such as:
+
+- frequency
+- number of observed questions
+- source count
+- evidence strength
+- last observed year
+- confidence
+- recommended priority
+
+These should only be populated when there is sufficient supporting evidence.
+
+---
+
+## 6. Study Priority
+
+The project should avoid arbitrary labels such as "must study" or "ignore" unless they are supported by evidence.
+
+A useful future priority system could combine:
+
+1. Official subject weight
+2. Historical question frequency
+3. Recency of appearance
+4. Repetition across independent sources
+5. Clinical importance
+6. Candidate difficulty
+7. Time required to master the topic
+
+This would allow study priorities to be transparent rather than based solely on personal opinion.
+
+---
+
+## 7. Question-Based Learning
+
+The study guide is intended to be question-oriented.
+
+For each topic, the eventual guide should aim to connect:
+
+**Topic → Questions → Concept → Explanation → Revision**
+
+A well-structured topic entry might eventually contain:
+
+- Core concept
+- Common question formats
+- Important differentials
+- Classic associations
+- Image-based clues
+- Common traps
+- Previous-question evidence
+- Related topics
+- Revision prompts
+
+---
+
+## 8. Revision Framework
+
+The eventual study guide may support a layered revision system.
+
+### First pass
+
+Understand the core concept.
+
+### Second pass
+
+Solve questions and identify weaknesses.
+
+### Third pass
+
+Review errors and high-frequency concepts.
+
+### Final revision
+
+Rapid review of:
+
+- formulas
+- classifications
+- criteria
+- drug associations
+- image recognition
+- clinical algorithms
+- frequently confused concepts
+
+The exact revision schedule should remain adaptable to the candidate's available preparation time.
+
+---
+
+## 9. Mock Examination Strategy
+
+Mock examinations should eventually be treated as a separate dataset.
+
+Useful fields may include:
+
+- mock source
+- date
+- subject
+- topic
+- question type
+- candidate performance
+- error category
+- confidence before answering
+- explanation quality
+
+This could eventually allow candidates to identify **knowledge gaps versus exam-technique errors**.
+
+---
+
+## 10. Important Limitation
+
+No blueprint can reliably predict the exact questions that will appear in a future FMGE examination.
+
+The purpose of this project is therefore not to create a "sure-shot questions" list.
+
+The objective is to build a transparent evidence base that helps candidates decide:
+
+> **What should I study, why should I study it, and how strong is the evidence behind that recommendation?**
+
+---
+
+## 11. Data Sources
+
+The official subject distribution is maintained separately in:
+
+[`data/fmge-blueprint.csv`](../../data/fmge-blueprint.csv)
+
+The broader study taxonomy is maintained in:
+
+[`data/fmge-subjects.csv`](../../data/fmge-subjects.csv)
+
+Topic taxonomy:
+
+[`data/fmge-topics.csv`](../../data/fmge-topics.csv)
+
+General project source methodology:
+
+[`SOURCES.md`](../../SOURCES.md)
+
+---
+
+## 12. Development Roadmap
+
+The study blueprint will be developed progressively.
+
+### Completed
+
+- [x] Official subject blueprint
+- [x] Subject taxonomy
+- [x] Topic taxonomy
+- [x] Evidence classification framework
+
+### Next
+
+- [ ] Align subject taxonomy with the official blueprint
+- [ ] Add historical question data
+- [ ] Build topic-frequency dataset
+- [ ] Identify repeated concepts
+- [ ] Develop evidence-based topic priorities
+- [ ] Build subject-specific study guides
+- [ ] Develop revision tables
+- [ ] Add image-based learning resources
+- [ ] Develop mock-analysis framework
+
+---
+
+## Guiding principle
+
+> **Official information should be presented as official.  
+> Observations should be presented as observations.  
+> Recommendations should be presented as recommendations.**
+
+The FMGE Open Guide should never blur these categories.
