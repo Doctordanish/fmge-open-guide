@@ -1,0 +1,156 @@
+subject,topic,subtopic,priority,evidence_status,evidence_source,verification_date
+Anatomy,General Anatomy,,,Framework only,,2026-09-23
+Anatomy,Upper Limb,,,Framework only,,2026-09-23
+Anatomy,Lower Limb,,,Framework only,,2026-09-23
+Anatomy,Thorax,,,Framework only,,2026-09-23
+Anatomy,Abdomen,,,Framework only,,2026-09-23
+Anatomy,Pelvis and Perineum,,,Framework only,,2026-09-23
+Anatomy,Head and Neck,,,Framework only,,2026-09-23
+Anatomy,Neuroanatomy,,,Framework only,,2026-09-23
+Anatomy,Embryology,,,Framework only,,2026-09-23
+Anatomy,Histology,,,Framework only,,2026-09-23
+Anatomy,Radiological Anatomy,,,Framework only,,2026-09-23
+Physiology,General Physiology,,,Framework only,,2026-09-23
+Physiology,Cell Physiology,,,Framework only,,2026-09-23
+Physiology,Nerve and Muscle,,,Framework only,,2026-09-23
+Physiology,Cardiovascular Physiology,,,Framework only,,2026-09-23
+Physiology,Respiratory Physiology,,,Framework only,,2026-09-23
+Physiology,Renal Physiology,,,Framework only,,2026-09-23
+Physiology,Gastrointestinal Physiology,,,Framework only,,2026-09-23
+Physiology,Endocrine Physiology,,,Framework only,,2026-09-23
+Physiology,Reproductive Physiology,,,Framework only,,2026-09-23
+Physiology,CNS Physiology,,,Framework only,,2026-09-23
+Biochemistry,General Biochemistry,,,Framework only,,2026-09-23
+Biochemistry,Molecular Biology,,,Framework only,,2026-09-23
+Biochemistry,Enzymes,,,Framework only,,2026-09-23
+Biochemistry,Carbohydrate Metabolism,,,Framework only,,2026-09-23
+Biochemistry,Lipid Metabolism,,,Framework only,,2026-09-23
+Biochemistry,Protein and Amino Acid Metabolism,,,Framework only,,2026-09-23
+Biochemistry,Vitamins and Minerals,,,Framework only,,2026-09-23
+Biochemistry,Genetics,,,Framework only,,2026-09-23
+Biochemistry,Clinical Biochemistry,,,Framework only,,2026-09-23
+Pathology,General Pathology,,,Framework only,,2026-09-23
+Pathology,Cell Injury and Adaptation,,,Framework only,,2026-09-23
+Pathology,Inflammation and Repair,,,Framework only,,2026-09-23
+Pathology,Hemodynamic Disorders,,,Framework only,,2026-09-23
+Pathology,Neoplasia,,,Framework only,,2026-09-23
+Pathology,Immunopathology,,,Framework only,,2026-09-23
+Pathology,Genetic Disorders,,,Framework only,,2026-09-23
+Pathology,Hematopathology,,,Framework only,,2026-09-23
+Pathology,Cardiovascular Pathology,,,Framework only,,2026-09-23
+Pathology,Respiratory Pathology,,,Framework only,,2026-09-23
+Pathology,Gastrointestinal Pathology,,,Framework only,,2026-09-23
+Pathology,Renal Pathology,,,Framework only,,2026-09-23
+Pathology,Endocrine Pathology,,,Framework only,,2026-09-23
+Pathology,Reproductive Pathology,,,Framework only,,2026-09-23
+Pathology,Neuropathology,,,Framework only,,2026-09-23
+Pharmacology,General Pharmacology,,,Framework only,,2026-09-23
+Pharmacology,Autonomic Pharmacology,,,Framework only,,2026-09-23
+Pharmacology,Cardiovascular Pharmacology,,,Framework only,,2026-09-23
+Pharmacology,CNS Pharmacology,,,Framework only,,2026-09-23
+Pharmacology,Antimicrobials,,,Framework only,,2026-09-23
+Pharmacology,Endocrine Pharmacology,,,Framework only,,2026-09-23
+Pharmacology,Respiratory Pharmacology,,,Framework only,,2026-09-23
+Pharmacology,Gastrointestinal Pharmacology,,,Framework only,,2026-09-23
+Pharmacology,Anticancer Drugs,,,Framework only,,2026-09-23
+Microbiology,General Microbiology,,,Framework only,,2026-09-23
+Microbiology,Bacteriology,,,Framework only,,2026-09-23
+Microbiology,Virology,,,Framework only,,2026-09-23
+Microbiology,Mycology,,,Framework only,,2026-09-23
+Microbiology,Parasitology,,,Framework only,,2026-09-23
+Microbiology,Immunology,,,Framework only,,2026-09-23
+Microbiology,HIV and Opportunistic Infections,,,Framework only,,2026-09-23
+Microbiology,Infection Control,,,Framework only,,2026-09-23
+Forensic Medicine,Forensic Principles,,,Framework only,,2026-09-23
+Forensic Medicine,Forensic Pathology,,,Framework only,,2026-09-23
+Forensic Medicine,Toxicology,,,Framework only,,2026-09-23
+Forensic Medicine,Legal Medicine,,,Framework only,,2026-09-23
+Community Medicine,Epidemiology,,,Framework only,,2026-09-23
+Community Medicine,Biostatistics,,,Framework only,,2026-09-23
+Community Medicine,Screening,,,Framework only,,2026-09-23
+Community Medicine,Health Programs,,,Framework only,,2026-09-23
+Community Medicine,Immunization,,,Framework only,,2026-09-23
+Community Medicine,Environmental Health,,,Framework only,,2026-09-23
+Community Medicine,Occupational Health,,,Framework only,,2026-09-23
+Community Medicine,Demography,,,Framework only,,2026-09-23
+Medicine,Cardiology,,,Framework only,,2026-09-23
+Medicine,Respiratory Medicine,,,Framework only,,2026-09-23
+Medicine,Gastroenterology,,,Framework only,,2026-09-23
+Medicine,Neurology,,,Framework only,,2026-09-23
+Medicine,Nephrology,,,Framework only,,2026-09-23
+Medicine,Endocrinology,,,Framework only,,2026-09-23
+Medicine,Rheumatology,,,Framework only,,2026-09-23
+Medicine,Infectious Diseases,,,Framework only,,2026-09-23
+Medicine,Hematology,,,Framework only,,2026-09-23
+Medicine,Emergency Medicine,,,Framework only,,2026-09-23
+Medicine,Dermatological Medicine,,,Framework only,,2026-09-23
+Medicine,Geriatric Medicine,,,Framework only,,2026-09-23
+Medicine,Clinical Genetics,,,Framework only,,2026-09-23
+Psychiatry,General Psychiatry,,,Framework only,,2026-09-23
+Psychiatry,Psychopharmacology,,,Framework only,,2026-09-23
+Psychiatry,Child and Adolescent Psychiatry,,,Framework only,,2026-09-23
+Psychiatry,Substance Use Disorders,,,Framework only,,2026-09-23
+Psychiatry,Emergency Psychiatry,,,Framework only,,2026-09-23
+Dermatology,General Dermatology,,,Framework only,,2026-09-23
+Dermatology,Infectious Dermatoses,,,Framework only,,2026-09-23
+Dermatology,Autoimmune and Connective Tissue Disorders,,,Framework only,,2026-09-23
+Dermatology,Hair and Nail Disorders,,,Framework only,,2026-09-23
+Dermatology,Drug Reactions,,,Framework only,,2026-09-23
+Pediatrics,Neonatology,,,Framework only,,2026-09-23
+Pediatrics,Growth and Development,,,Framework only,,2026-09-23
+Pediatrics,Immunization,,,Framework only,,2026-09-23
+Pediatrics,Pediatric Infectious Diseases,,,Framework only,,2026-09-23
+Pediatrics,Pediatric Cardiology,,,Framework only,,2026-09-23
+Pediatrics,Pediatric Neurology,,,Framework only,,2026-09-23
+Pediatrics,Pediatric Gastroenterology,,,Framework only,,2026-09-23
+Pediatrics,Pediatric Nephrology,,,Framework only,,2026-09-23
+Pediatrics,Pediatric Emergencies,,,Framework only,,2026-09-23
+Surgery,General Surgery,,,Framework only,,2026-09-23
+Surgery,Trauma,,,Framework only,,2026-09-23
+Surgery,Gastrointestinal Surgery,,,Framework only,,2026-09-23
+Surgery,Hepatobiliary Surgery,,,Framework only,,2026-09-23
+Surgery,Vascular Surgery,,,Framework only,,2026-09-23
+Surgery,Endocrine Surgery,,,Framework only,,2026-09-23
+Surgery,Breast Surgery,,,Framework only,,2026-09-23
+Surgery,Neurosurgery,,,Framework only,,2026-09-23
+Surgery,Urology,,,Framework only,,2026-09-23
+Surgery,Pediatric Surgery,,,Framework only,,2026-09-23
+Orthopedics,General Orthopedics,,,Framework only,,2026-09-23
+Orthopedics,Trauma and Fractures,,,Framework only,,2026-09-23
+Orthopedics,Arthritis,,,Framework only,,2026-09-23
+Orthopedics,Spine,,,Framework only,,2026-09-23
+Orthopedics,Bone Tumors,,,Framework only,,2026-09-23
+Orthopedics,Sports Injuries,,,Framework only,,2026-09-23
+Anaesthesiology,General Anaesthesia,,,Framework only,,2026-09-23
+Anaesthesiology,Airway Management,,,Framework only,,2026-09-23
+Anaesthesiology,Regional Anaesthesia,,,Framework only,,2026-09-23
+Anaesthesiology,Resuscitation,,,Framework only,,2026-09-23
+Anaesthesiology,Pain Medicine,,,Framework only,,2026-09-23
+Radiodiagnosis,General Radiology,,,Framework only,,2026-09-23
+Radiodiagnosis,Chest Imaging,,,Framework only,,2026-09-23
+Radiodiagnosis,Abdominal Imaging,,,Framework only,,2026-09-23
+Radiodiagnosis,Neuroradiology,,,Framework only,,2026-09-23
+Radiodiagnosis,Musculoskeletal Imaging,,,Framework only,,2026-09-23
+Radiodiagnosis,Ultrasound,,,Framework only,,2026-09-23
+Radiodiagnosis,CT and MRI,,,Framework only,,2026-09-23
+Obstetrics and Gynecology,Obstetrics,,,Framework only,,2026-09-23
+Obstetrics and Gynecology,Antenatal Care,,,Framework only,,2026-09-23
+Obstetrics and Gynecology,Normal Labour,,,Framework only,,2026-09-23
+Obstetrics and Gynecology,High Risk Pregnancy,,,Framework only,,2026-09-23
+Obstetrics and Gynecology,Hypertensive Disorders of Pregnancy,,,Framework only,,2026-09-23
+Obstetrics and Gynecology,Obstetric Hemorrhage,,,Framework only,,2026-09-23
+Obstetrics and Gynecology,Gynecology,,,Framework only,,2026-09-23
+Obstetrics and Gynecology,Gynecologic Oncology,,,Framework only,,2026-09-23
+Obstetrics and Gynecology,Reproductive Medicine,,,Framework only,,2026-09-23
+Obstetrics and Gynecology,Contraception,,,Framework only,,2026-09-23
+Ophthalmology,General Ophthalmology,,,Framework only,,2026-09-23
+Ophthalmology,Cornea,,,Framework only,,2026-09-23
+Ophthalmology,Glaucoma,,,Framework only,,2026-09-23
+Ophthalmology,Retina,,,Framework only,,2026-09-23
+Ophthalmology,Cataract,,,Framework only,,2026-09-23
+Ophthalmology,Ocular Trauma,,,Framework only,,2026-09-23
+Otorhinolaryngology,General ENT,,,Framework only,,2026-09-23
+Otorhinolaryngology,Ear,,,Framework only,,2026-09-23
+Otorhinolaryngology,Nose and Paranasal Sinuses,,,Framework only,,2026-09-23
+Otorhinolaryngology,Larynx,,,Framework only,,2026-09-23
+Otorhinolaryngology,Head and Neck Surgery,,,Framework only,,2026-09-23
