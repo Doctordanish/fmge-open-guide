@@ -1,3 +1,13 @@
 session,exam_date,source_id,evidence_type,subjects_covered,source_description,confidence,notes,verification_date
 June 2026,2026-06-28,SRC004,Memory-based recall,Multiple subjects,Careers360 memory-based reconstruction using candidate recalls and expert review,Moderate,Secondary reconstruction; not an official NBEMS question paper,2026-09-23
 June 2026,2026-06-28,SRC005,Recall and subject-wise review,Multiple subjects,PW MedEd recall and analysis organized by subject with discussion of recalled questions and topics,Moderate,Secondary recall source; use for cross-checking rather than official question counts,2026-09-23
+January 2025,2025-01,SRC008,Memory-based recall,Multiple subjects,Yearwise FMGE paper with recalled questions and answer explanations,Moderate,Secondary source; not an official NBEMS question paper,2026-09-23
+July 2025,2025-07,SRC008,Memory-based recall,Multiple subjects,Yearwise FMGE paper with recalled questions and answer explanations,Moderate,Secondary source; not an official NBEMS question paper,2026-09-23
+January 2024,2024-01,SRC008,Memory-based recall,Multiple subjects,Yearwise FMGE paper with recalled questions and answer explanations,Moderate,Secondary source; not an official NBEMS question paper,2026-09-23
+June 2024,2024-06,SRC008,Memory-based recall,Multiple subjects,Yearwise FMGE paper with recalled questions and answer explanations,Moderate,Secondary source; not an official NBEMS question paper,2026-09-23
+January 2023,2023-01,SRC008,Memory-based recall,Multiple subjects,Yearwise FMGE paper with recalled questions and answer explanations,Moderate,Secondary source; not an official NBEMS question paper,2026-09-23
+July 2023,2023-07,SRC008,Memory-based recall,Multiple subjects,Yearwise FMGE paper with recalled questions and answer explanations,Moderate,Secondary source; not an official NBEMS question paper,2026-09-23
+June 2022,2022-06,SRC008,Memory-based recall,Multiple subjects,Yearwise FMGE paper with recalled questions and answer explanations,Moderate,Secondary source; not an official NBEMS question paper,2026-09-23
+June 2021,2021-06,SRC008,Memory-based recall,Multiple subjects,Yearwise FMGE paper with recalled questions and answer explanations,Moderate,Secondary source; not an official NBEMS question paper,2026-09-23
+December 2021,2021-12,SRC008,Memory-based recall,Multiple subjects,Yearwise FMGE paper with recalled questions and answer explanations,Moderate,Secondary source; not an official NBEMS question paper,2026-09-23
+December 2020,2020-12,SRC008,Memory-based recall,Multiple subjects,Yearwise FMGE paper with recalled questions and answer explanations,Moderate,Secondary source; not an official NBEMS question paper,2026-09-23
