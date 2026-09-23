@@ -1,1 +1,1 @@
-source_id,source_type,exam_session,subject,topic,subtopic,question_reference,evidence_type,frequency,confidence,notes,verification_date
+subject,topic,subtopic,priority,priority_score,evidence_status,evidence_source,question_count,independent_source_count,last_observed_session,notes,verification_date
