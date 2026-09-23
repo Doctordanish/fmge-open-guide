@@ -39,6 +39,17 @@ The institution-wise **Annexure-II** contains the Telangana medical colleges and
 The NMC notice states that State Medical Councils, in consultation with the relevant Directorate of Medical Education, are responsible for allotment in accordance with the applicable framework.
 
 ## Telangana CRMI seats
+### Machine-readable dataset
+
+The institution-level data is also maintained as a CSV dataset:
+
+[Telangana CRMI 2026–27 CSV](../../data/telangana-crmi-2026-27.csv)
+
+The CSV is intended for reuse, analysis, and future automated tools.
+
+The NMC Annexure-I aggregate for Telangana is **4,871 slots**. The institution-level entries currently reproduced in the dataset sum to **4,868 slots**, leaving a documented difference of **3 slots**. See the [dataset methodology](../../data/README.md) for details.
+
+The discrepancy has not been silently corrected.
 
 The following figures are taken from the NMC institution-wise CRMI matrix for AY 2026–27.
 
