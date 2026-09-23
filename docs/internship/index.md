@@ -1,255 +1,293 @@
-# FMG Internship Guide
+# FMG Internship & CRMI
 
-The internship or supervised clinical training stage is an important part of the pathway for eligible Foreign Medical Graduates seeking medical registration in India.
+**Last verified:** 23 September 2026
 
-The exact requirements, duration, eligibility, documentation, and procedure depend on the regulations applicable to the individual graduate and the instructions of the relevant authorities.
+**Information period:** Academic Year 2026–27
 
-> **Important:** This page is an organizational framework. Current requirements should always be verified against official NMC, State Medical Council, university, and hospital documentation.
+This page explains the compulsory rotating medical internship (CRMI) stage for Foreign Medical Graduates (FMGs) who are required to complete internship in India before obtaining the applicable permanent medical registration.
 
----
-
-## 1. Before Looking for an Internship
-
-Before approaching hospitals or medical colleges, an FMG should establish:
-
-- Whether they are eligible for the required internship
-- Whether they have completed the required examination
-- Whether provisional registration is required
-- Which authority is responsible for their registration
-- What documents are required
-- Whether the institution is eligible to provide the required training
-- Whether any state-specific requirements apply
-
-Do not assume that another FMG's pathway will automatically apply to you.
+> **Important:** Internship allocation, registration and institutional procedures can change. Always verify the current requirements with the National Medical Commission (NMC), the relevant State Medical Council, Directorate of Medical Education and the institution concerned.
 
 ---
 
-## 2. Finding an Internship
+# 1. What is CRMI?
 
-FMGs may encounter internship opportunities through:
+**Compulsory Rotating Medical Internship (CRMI)** is the supervised internship stage required under the applicable medical-registration framework.
 
-- Government medical colleges
-- Government hospitals
-- Private medical colleges
-- Hospitals affiliated with recognised institutions
-- State-specific processes
-- Official notices
-- Direct institutional communication
+For an FMG, CRMI may form part of the pathway between:
 
-The availability and procedure can vary significantly between states and institutions.
+```text id="jkl6do"
+Applicable licensing / screening examination
+                ↓
+Provisional registration
+                ↓
+CRMI / internship
+                ↓
+Completion documentation
+                ↓
+Permanent registration
+```
 
----
-
-## 3. Choosing an Institution
-
-Before accepting an internship position, verify:
-
-### Recognition
-
-Confirm that the institution and the proposed training arrangement satisfy the applicable regulatory requirements.
-
-### Registration
-
-Determine whether the institution requires provisional registration before joining.
-
-### Duration
-
-Confirm the required duration and whether all rotations are included.
-
-### Departments
-
-Check which clinical departments and rotations are included.
-
-### Fees
-
-Understand all charges before joining.
-
-Ask for written documentation where possible.
-
-### Stipend
-
-If a stipend is offered, verify:
-
-- Amount
-- Payment schedule
-- Eligibility
-- Deductions
-- Whether the amount is actually being paid to interns
-
-### Working conditions
-
-Where possible, clarify:
-
-- Working hours
-- Duty schedules
-- Night duties
-- Leave
-- Accommodation
-- Food
-- Emergency duties
-- Supervision
-
-These are practical considerations and should not be confused with regulatory requirements.
+The exact requirements depend on the regulations applicable to the individual FMG.
 
 ---
 
-## 4. Documents
+# 2. Who Needs to Complete CRMI?
 
-The exact documents required vary.
+The requirement to complete CRMI depends on the applicable regulations and the individual's circumstances.
 
-Candidates should maintain a digital folder containing copies of important documents, such as:
+Factors that may affect the pathway include:
 
-- Passport
-- Medical degree
-- Academic transcripts
-- FMGE documentation
-- Identity documents
-- Photographs
-- Provisional registration documentation
-- Internship-related correspondence
-- Any documents requested by the institution or authority
+- Date of admission to the foreign medical course
+- Primary medical qualification
+- Applicable FMG regulations
+- Examination status
+- Previous internship or clinical training
+- Registration status
+- Current NMC requirements
 
-Always check the current official requirements before submitting originals.
+An FMG should not assume that every foreign graduate follows exactly the same pathway.
 
 ---
 
-## 5. Joining the Internship
+# 3. NMC CRMI Allocation — AY 2026–27
 
-Before joining, obtain written confirmation of:
+On 10 March 2026, the National Medical Commission issued a notice concerning:
 
-- Institution
-- Start date
-- Duration
-- Department / rotation structure
-- Registration requirements
-- Fees
-- Stipend, if applicable
-- Accommodation, if applicable
-- Documents required
+**Allocation of Compulsory Rotatory Medical Internship (CRMI) Slots for Foreign Medical Graduates (FMGs)**
 
-Keep copies of all communication.
+for Academic Year 2026–27.
 
----
+The notice contains state/UT-level and institution-level information concerning CRMI seats identified for FMG students.
 
-## 6. During the Internship
+The institution-wise information is contained in **Annexure-II**.
 
-Keep records of your training.
+The allocation framework should not be interpreted as giving an FMG an automatic right to join any listed institution.
 
-Useful records may include:
-
-- Duty schedules
-- Attendance
-- Rotation details
-- Leave
-- Department postings
-- Logbooks
-- Completion certificates
-- Official correspondence
-
-If a dispute arises later, contemporaneous documentation can be valuable.
+The applicable state-level allotment procedure must also be followed.
 
 ---
 
-## 7. Internship Completion
+# 4. How CRMI Allocation Works
 
-At the end of the required training period, ensure that you obtain the appropriate completion documentation.
+The NMC framework provides for State Medical Councils, in consultation with the relevant Directorate of Medical Education, to allot CRMI slots to FMGs according to the applicable criteria.
 
-Keep:
+The framework includes different categories of available CRMI capacity, including:
 
-- Internship completion certificate
-- Attendance records where available
+- A proportion of permitted intern intake in established medical colleges/institutions
+- CRMI seats in newly established medical colleges
+- CRMI seats associated with increased intake in existing institutions
+
+The exact allocation should be read from the current NMC notice and its annexures.
+
+---
+
+# 5. Institution-Wise CRMI Data
+
+The NMC institution-wise matrix identifies CRMI seats available to FMG students for AY 2026–27.
+
+State-specific pages in this guide reproduce relevant figures from that matrix where they have been verified.
+
+### Currently documented
+
+- [Telangana — FMG Internship & Registration](../states/telangana.md)
+
+Additional states can be added after their NMC allocation data and state-level procedures have been verified.
+
+---
+
+# 6. Does an NMC-Listed Seat Guarantee an Internship?
+
+**No.**
+
+An institution appearing in the NMC matrix should not automatically be interpreted as an individual allotment.
+
+The actual process may involve:
+
+1. FMG eligibility verification
+2. Provisional registration
+3. State Medical Council procedures
+4. Directorate of Medical Education procedures
+5. Institution-level requirements
+6. Formal allotment or permission
+7. Joining documentation
+
+The exact sequence may vary according to the applicable state process.
+
+---
+
+# 7. Before Applying for CRMI
+
+An FMG should verify:
+
+### Eligibility
+
+- Is the applicant eligible for CRMI?
+- Has the required examination been passed?
+- Is provisional registration required?
+
+### State procedure
+
+- Which State Medical Council handles the application?
+- Is there a centralised allotment process?
+- Does the Directorate of Medical Education issue instructions?
+- Are applications submitted online or offline?
+
+### Institution
+
+- Is the institution listed in the applicable NMC matrix?
+- Does it have an approved teaching hospital?
+- What documents are required?
+- Are there institution-specific conditions?
+
+### Financial requirements
+
+- Is any fee payable?
+- Is a stipend applicable?
+- Is hostel accommodation available?
+- Are there other institutional charges?
+
+Whenever possible, obtain important information from an official written source.
+
+---
+
+# 8. Internship Documentation
+
+An FMG should retain copies of:
+
+- Provisional registration
+- Internship joining letter
+- Allotment letter
+- Attendance records
 - Rotation records
-- Relevant registration documents
-- Payment / stipend records where applicable
+- Department postings
+- Leave records
+- Assessment records
+- Completion certificate
+- Stipend records
+- Correspondence with authorities
+- Other documents issued during CRMI
 
-These documents may be required during subsequent registration procedures.
-
----
-
-## 8. Common Problems Reported by FMGs
-
-This section will eventually document recurring problems reported by FMGs.
-
-Examples may include:
-
-- Difficulty finding an internship
-- Delayed joining
-- Unclear eligibility requirements
-- Excessive or unexpected fees
-- Stipend disputes
-- Excessive working hours
-- Missing rotations
-- Registration delays
-- Problems obtaining completion certificates
-- Communication difficulties
-- Changes in institutional requirements
-
-**Important:** Individual experiences should be documented as experiences rather than presented as universal facts.
-
-Where possible, claims about regulations should be linked to primary sources.
+These documents may become important during the subsequent registration process.
 
 ---
 
-## 9. If Something Goes Wrong
+# 9. Questions to Ask Before Joining
 
-If an FMG encounters a problem:
+Before joining an institution, clarify:
 
-1. Keep written records.
-2. Ask the institution for clarification in writing.
-3. Identify the authority responsible for the relevant issue.
-4. Check the current official regulations.
-5. Escalate through the appropriate institutional or regulatory channel where necessary.
+### Rotation
 
-The guide should eventually provide a practical escalation pathway for common problems.
+- What departments are included?
+- What is the rotation schedule?
+- How are postings assigned?
 
----
+### Attendance
 
-## 10. State-Specific Information
+- How is attendance recorded?
+- What happens in case of absence?
+- Are biometric or other attendance systems used?
 
-Internship procedures can differ between states and institutions.
+### Assessment
 
-The guide will therefore maintain separate state-specific pages rather than assuming that one procedure applies everywhere.
+- Are logbooks required?
+- Are departmental assessments required?
+- Who signs the records?
 
-See:
+### Fees and stipend
 
-- [Telangana](../states/telangana.md)
-- Karnataka
-- Maharashtra
-- Delhi
-- Andhra Pradesh
-- Other states
+- Is there an official fee?
+- Is a receipt provided?
+- Is a stipend paid?
+- Who pays the stipend?
+- What is the payment schedule?
 
-State pages should clearly identify:
+### Accommodation
 
-- Relevant authority
-- Current application process
-- Required documents
-- Official notices
-- Fees
-- Known institutional requirements
-- Contact information
-- Last verified date
+- Is hostel accommodation available?
+- Is it compulsory?
+- What is the official charge?
+
+Important information should ideally be obtained in writing.
 
 ---
 
-## Information Classification
+# 10. Common Problems
 
-Every important piece of information in this guide should ideally be classified as one of:
+FMGs may encounter issues including:
 
-**Official rule** — directly supported by a current official source.
+- Difficulty obtaining an internship slot
+- Delays in allotment
+- Confusion regarding eligibility
+- Differences between state and institutional instructions
+- Documentation problems
+- Attendance disputes
+- Delays in completion certificates
+- Stipend issues
+- Communication problems
+- Registration delays after internship
 
-**Institutional requirement** — requirement stated by a specific hospital, college, or institution.
+When documenting such problems, the guide should distinguish between official requirements and individual experiences.
 
-**Community experience** — experience reported by an FMG.
+---
 
-**Interpretation** — explanation intended to make an official rule easier to understand.
+# 11. Community Information
 
-This distinction is essential to prevent anecdotal experiences from being mistaken for law or regulation.
+Community reports can be useful for discovering practical problems.
+
+However:
+
+> A personal experience does not automatically establish a state-wide rule.
+
+Community information should therefore include:
+
+- Date
+- State
+- Institution, where relevant
+- Source
+- Description of the experience
+- Whether the claim was independently verified
+
+Unverified reports should be clearly labelled as such.
+
+---
+
+# 12. Primary Sources
+
+### National Medical Commission
+
+https://www.nmc.org.in/
+
+### NMC — CRMI Allocation Notice
+
+**Allocation of Compulsory Rotatory Medical Internship (CRMI) Slots for Foreign Medical Graduates (FMGs)**
+
+Academic Year 2026–27
+
+https://www.nmc.org.in/MCIRest/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FLatestNews%2FCRMI_mergedPublicNotice.pdf
+
+### State Medical Councils
+
+Use the relevant State Medical Council's official website for state-specific registration and internship instructions.
+
+### Directorate of Medical Education
+
+Use the relevant State Government / Directorate of Medical Education website for state-specific allotment instructions.
+
+---
+
+# 13. Verification History
+
+| Date | Information checked | Source |
+|---|---|---|
+| 23 September 2026 | CRMI allocation framework | NMC |
+| 23 September 2026 | Institution-wise CRMI data | NMC Annexure-II |
+| 23 September 2026 | State Medical Council framework | NMC |
 
 ---
 
 ## Page status
 
-**Status:** Initial framework
+**Status:** CRMI framework with verified Telangana dataset
 
-This page will be expanded with current official requirements, state-specific procedures, institutional examples, document checklists, and verified FMG experiences.
+**Next update:** Add additional state-specific CRMI datasets and verified state allotment procedures.
