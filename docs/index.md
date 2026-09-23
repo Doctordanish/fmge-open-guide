@@ -14,13 +14,16 @@ This is a community-maintained knowledge base for Foreign Medical Graduates navi
 - Registration
 
 ### 2. FMGE
-- Eligibility
-- Application process
-- Examination
-- Results
-- Common questions
+
+- [FMGE overview](fmge/index.md)
+- [FMGE eligibility](fmge/eligibility.md)
+- [FMGE application process](fmge/application.md)
+- [FMGE examination & results](fmge/exam-and-results.md)
+- [FMGE FAQ](fmge/faq.md)
 
 ### 3. Internship
+- [FMG Internship & CRMI](internship/index.md)
+- [CRMI 2026–27](internship/crmi-2026-27.md)
 - Finding an internship
 - Eligibility and requirements
 - Documents
@@ -31,7 +34,8 @@ This is a community-maintained knowledge base for Foreign Medical Graduates navi
 ### 4. Medical Registration
 
 - [Medical registration — FMGs in India](registration.md)
-- NMC requirements
+- [Provisional registration](provisional-registration.md)
+- [State-by-state information](states/index.md)- NMC requirements
 - State Medical Councils
 - Provisional registration
 - Permanent registration
@@ -41,7 +45,8 @@ This is a community-maintained knowledge base for Foreign Medical Graduates navi
 
 Information about FMG processes in individual states.
 
-- Telangana
+- [State-by-state FMG guide](states/index.md)
+- [Telangana](states/telangana.md)
 - Andhra Pradesh
 - Karnataka
 - Maharashtra
