@@ -137,30 +137,103 @@ These are **study recommendations**, not official examination specifications.
 
 ## 4. Evidence Classification
 
-Every important claim in the study guide should be classified.
+The study guide distinguishes between the source of a claim and the strength of the evidence supporting it.
 
-| Evidence level | Meaning |
-|---|---|
-| **Official** | Directly stated by NBEMS/NMC or another authoritative body |
-| **Primary evidence** | Direct examination or institutional documentation |
-| **Repeated observation** | Pattern observed across multiple independent sources |
-| **Community report** | Candidate-reported experience or recall |
-| **Interpretation** | Analysis derived from available evidence |
-| **Advice** | Practical recommendation from this project |
+Repeated reports are not automatically independent evidence. If multiple websites or posts appear to reproduce the same underlying recall or source, they should not be counted as separate independent observations.
 
-The distinction is important.
+### Evidence levels
+
+| Level | Evidence type | Description |
+|---|---|---|
+| **E1 — Official** | NBEMS/NMC documentation | Directly stated in an official examination document, notice, regulation, or bulletin |
+| **E2 — Primary examination evidence** | Documented question/paper | Question or examination material that can be directly verified from a reliable primary source |
+| **E3 — Independent repeated observation** | Multiple independent reports | The same concept is reported independently by multiple credible sources |
+| **E4 — Single candidate/community report** | Recall or discussion | A candidate-reported question or observation that cannot yet be independently verified |
+| **E5 — Interpretation** | Analytical conclusion | A conclusion derived from available evidence |
+| **E6 — Recommendation** | Study advice | A practical recommendation made by this project |
+
+---
+
+### Independence of sources
+
+Source count should not be treated as the same thing as evidence count.
 
 For example:
 
-> "Medicine carries 33 marks."
+> Candidate A reports a question → Website B copies Candidate A → Telegram channel C copies Website B.
 
-is an **official** claim.
+This represents **one underlying observation**, not three independent observations.
 
-Whereas:
+Where the original source cannot be established, the project should record the information conservatively.
 
-> "Cardiology is high-yield."
+---
 
-would require supporting evidence and should not be presented as an official NBEMS statement.
+### Confidence
+
+Topic-level confidence should be assigned separately from raw frequency.
+
+Suggested values:
+
+- **High**
+- **Moderate**
+- **Low**
+- **Unverified**
+
+Confidence should consider:
+
+1. Source reliability
+2. Whether the underlying evidence is directly verifiable
+3. Number of genuinely independent observations
+4. Consistency between sources
+5. Recency
+6. Whether the observation can be mapped unambiguously to a topic
+
+---
+
+### Frequency
+
+`frequency` in `data/fmge-question-evidence.csv` refers to the number of **documented observations represented by that record**, not the number of websites or social-media posts mentioning it.
+
+Frequency should never be interpreted as a prediction of future examination questions.
+
+---
+
+### Recommended evidence record
+
+Each documented observation should ideally contain:
+
+- Source identifier
+- Source type
+- Examination session
+- Subject
+- Topic
+- Subtopic
+- Question reference, where available
+- Evidence type
+- Frequency
+- Confidence
+- Notes
+- Verification date
+
+The structured schema is maintained in:
+
+[`data/fmge-question-evidence.csv`](../../data/fmge-question-evidence.csv)
+
+---
+
+### What should not be treated as evidence
+
+The following should not automatically be converted into high-yield claims:
+
+- Coaching-institute predictions
+- "Most important" lists without methodology
+- Unverified Telegram lists
+- Anonymous social-media posts
+- A single recalled question
+- Repeated copies of the same recall
+- Personal impressions about what is "frequently asked"
+
+These may still be useful as leads for further investigation, but they should be labelled accordingly.
 
 ---
 
