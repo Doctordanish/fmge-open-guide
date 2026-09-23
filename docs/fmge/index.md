@@ -91,26 +91,49 @@ FMGE-related notices, application information, information bulletins, examinatio
 
 ---
 
-# 5. Examination Information
+# 5. Current FMGE Examination Sessions
 
-FMGE is conducted as a computer-based examination.
+FMGE is conducted as a computer-based examination by the **National Board of Examinations in Medical Sciences (NBEMS)**.
 
-The exact:
+Because examination dates, application windows, fees and procedures can change between sessions, candidates should always use the **information bulletin for the specific session**.
 
-- Examination date
-- Application window
-- Examination centres
+## FMGE June 2026
+
+| Item | Official information |
+|---|---|
+| Examination session | FMGE June 2026 |
+| Application start | 21 April 2026 |
+| Examination date | 28 June 2026 |
+| Result | Published 7 July 2026 |
+| Conducting authority | NBEMS |
+
+The June 2026 examination was conducted on **28 June 2026**. NBEMS subsequently published the result on **7 July 2026**.
+
+## FMGE October 2026
+
+NBEMS has also published a separate **FMGE October 2026** examination session.
+
+Candidates preparing for this session should use the current NBEMS information bulletin rather than relying on dates or procedures from the June 2026 session.
+
+### Official examination information
+
+**NBEMS FMGE examination page:**
+
+https://natboard.edu.in/viewnbeexam?exam=fmge
+
+The examination page should be treated as the primary source for:
+
+- Current application dates
+- Information bulletin
+- Examination fee
 - Eligibility requirements
-- Fee
-- Number of questions
-- Examination pattern
-- Qualifying criteria
-- Result process
+- Examination centres
+- Admit-card information
+- Examination date
+- Result information
+- Official notices
 
-may change between examination sessions.
-
-Therefore, candidates should use the **information bulletin for the specific examination session** rather than relying on an older examination pattern.
-
+> **Source rule:** When information on this page conflicts with a current NBEMS notice or information bulletin, the current NBEMS publication takes precedence.
 ---
 
 # 6. Eligibility Documentation
