@@ -1,1 +1,33 @@
-subject,topic,subtopic,priority,priority_score,evidence_status,evidence_source,question_count,independent_source_count,last_observed_session,notes,verification_date
+source_id,source_type,exam_session,subject,topic,subtopic,question_reference,evidence_type,frequency,confidence,notes,verification_date
+SRC007,Memory-based secondary source,June 2026,Anatomy,Upper limb,Radial head fracture — posterior interosseous nerve,Q1,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Anatomy,Upper limb,Ulnar nerve — deep branch,Q2,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Anatomy,Upper limb,Brachial plexus — supraclavicular block,Q3,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Anatomy,Pelvis,Obturator nerve,Q4,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Anatomy,Abdomen,Splenic hilum — splenic artery,Q5,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Anatomy,Head and Neck,Scalp layers — raccoon-eye sign,Q6,Memory-based recall,1,Moderate,Image-dependent question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Anatomy,Lower limb,Medial meniscus,Q7,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Anatomy,Neuroanatomy,UMN facial nerve lesion,Q8,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Anatomy,Head and Neck,Great auricular nerve,Q9,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Anatomy,Neuroanatomy,Spinothalamic tract lesion,Q10,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Anatomy,Neuroanatomy,Spinothalamic tract function,Q11,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Anatomy,Embryology,Pharyngeal arches and clefts — stapes and external auditory canal,Q12,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Anatomy,Embryology,Second pharyngeal cleft anomaly,Q13,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Anatomy,Head and Neck,Paranasal sinus drainage,Q14,Memory-based recall,1,Moderate,Image-dependent question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Anatomy,Head and Neck,Deep cervical lymph nodes — jugulodigastric node,Q15,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Anatomy,Head and Neck,Skull sutures — squamous suture,Q16,Memory-based recall,1,Moderate,Image-dependent question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Anatomy,Abdomen,Prepyloric vein of Mayo,Q17,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Anatomy,Cardiovascular,Aorta — vessel identification,Q18,Memory-based recall,1,Moderate,Histology image-dependent question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Anatomy,Head and Neck,External branch of superior laryngeal nerve,Q19,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Biochemistry,Molecular Biology,RNA processing/editing,Q20,Memory-based recall,1,Low,Image-dependent question; answer not stated in extracted source text,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Biochemistry,Vitamins,Vitamin B12 deficiency,Q21,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Biochemistry,Proteins and Amino Acids,Cysteine and keratin,Q22,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Biochemistry,Inborn Errors of Metabolism,Alkaptonuria — homogentisate oxidase,Q23,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Biochemistry,Molecular Biology,Nucleotide excision repair,Q24,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Biochemistry,Nutrition,Zinc deficiency and wound healing,Q25,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Biochemistry,Carbohydrate Metabolism,Fructose metabolism,Q26,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Biochemistry,Acid-Base Balance,Normal-anion-gap metabolic acidosis,Q27,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Biochemistry,Renal Physiology,Creatinine versus inulin clearance,Q28,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Biochemistry,Vitamins,Vitamin C and collagen hydroxylation,Q29,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Biochemistry,Molecular Transport,GLUT-1 deficiency,Q30,Memory-based recall,1,Moderate,Recall question; answer stated in source,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Biochemistry,Nutrition,Malabsorption and fat-soluble vitamin deficiency,Q31,Memory-based recall,1,Low,Underlying disease/answer not stated in extracted source text,2026-09-23
+SRC007,Memory-based secondary source,June 2026,Biochemistry,Pharmacology Interface,Isotretinoin monitoring — lipid profile and liver function tests,Q32,Memory-based recall,1,Low,Answer not stated in extracted source text,2026-09-23
