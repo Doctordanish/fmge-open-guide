@@ -183,11 +183,11 @@ The allocation process should not be interpreted as unrestricted direct admissio
 
 State Medical Councils, Directorates of Medical Education and individual institutions may have additional procedures.
 
-See:
+### State-specific information
 
-**[Telangana — FMG Internship & Registration](../states/telangana.md)**
+- [Telangana — FMG Internship & Registration](../states/telangana.md)
 
-for the Telangana-specific 2026–27 CRMI dataset currently documented in this guide.
+As additional state pages are verified from primary sources, they can be added here.
 
 ---
 
