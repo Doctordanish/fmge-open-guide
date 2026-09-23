@@ -1,211 +1,306 @@
-# Foreign Medical Graduate Examination (FMGE)
 
-The Foreign Medical Graduate Examination (FMGE) is a screening examination for eligible medical graduates who obtained their primary medical qualification outside India and seek registration to practise medicine in India, subject to the applicable regulations.
+# FMGE — Foreign Medical Graduate Examination
 
-> **Important:** Examination rules, eligibility requirements, application procedures, and registration requirements can change. Always verify current information using official sources.
+**Last verified:** 23 September 2026
 
-## 1. What is FMGE?
+**Information period:** 2026
 
-FMGE is conducted by the **National Board of Examinations in Medical Sciences (NBEMS)**.
+This page provides a structured overview of the **Foreign Medical Graduate Examination (FMGE)** and its place in the medical-registration pathway for foreign medical graduates (FMGs) in India.
 
-For eligible foreign medical graduates, passing the examination is an important step toward obtaining medical registration in India.
-
-Passing FMGE should not be interpreted as equivalent to completing the entire medical registration process. Other requirements may apply.
+> **Important:** This guide is informational. Eligibility, examination requirements, registration requirements, and applicable regulations can change. Always verify current requirements with the National Medical Commission (NMC) and the National Board of Examinations in Medical Sciences (NBEMS).
 
 ---
 
-## 2. Who needs to take FMGE?
+# 1. What is FMGE?
 
-Whether a foreign medical graduate is required to appear for FMGE depends on the laws and regulations applicable to their qualification and circumstances.
+The **Foreign Medical Graduate Examination (FMGE)** is the screening examination applicable to certain foreign medical graduates seeking registration to practise medicine in India.
 
-The relevant factors can include:
+The examination is conducted by the **National Board of Examinations in Medical Sciences (NBEMS)**.
 
-- Date of admission to medical school
-- Country of medical education
-- Institution and qualification
-- Recognition of the medical qualification
+The regulatory framework is administered under the applicable provisions of the National Medical Commission and its regulations.
+
+Passing FMGE does **not by itself mean that an FMG can immediately practise independently**.
+
+The graduate must complete the remaining applicable registration and internship requirements.
+
+---
+
+# 2. Where FMGE Fits in the FMG Pathway
+
+A simplified pathway is:
+
+```text
+Medical education outside India
+            ↓
+Meet applicable FMG eligibility requirements
+            ↓
+FMGE / applicable licensing examination
+            ↓
+Provisional registration
+            ↓
+Compulsory Rotating Medical Internship (CRMI)
+            ↓
+Permanent medical registration
+            ↓
+Medical practice in India
+```
+
+The exact pathway can differ depending on:
+
+- Date of admission to the foreign medical course
+- Country and institution
+- Applicable regulations
+- Internship/clerkship history
+- Examination status
+- Individual registration status
+- Current NMC and State Medical Council requirements
+
+---
+
+# 3. Who Needs to Consider FMGE?
+
+FMGE requirements generally concern foreign medical graduates seeking registration to practise medicine in India who fall within the applicable regulatory framework.
+
+Not every person who studied medicine outside India will necessarily have identical requirements.
+
+The applicable rules depend on factors including:
+
+- Date of admission
+- Primary medical qualification
+- Country of study
+- Duration and structure of the medical course
+- Internship/clerkship
+- Existing registration
 - Applicable NMC regulations
-- Applicable exemptions or transitional provisions
 
-**Do not rely on an old list or a third-party website to determine eligibility.**
-
-Check the latest official notification applicable to your circumstances.
+For an individual case, the current NMC regulations and official clarification should take precedence over summaries on this website.
 
 ---
 
-## 3. Examination Information
+# 4. Examination Authority
 
-The examination is conducted according to the schedule and rules published by NBEMS.
+## National Board of Examinations in Medical Sciences
 
-Before applying, candidates should verify:
+NBEMS is responsible for conducting FMGE.
 
-- Application dates
+Official website:
+
+https://natboard.edu.in/
+
+FMGE-related notices, application information, information bulletins, examination schedules, results and other examination communications should be obtained from NBEMS.
+
+---
+
+# 5. Examination Information
+
+FMGE is conducted as a computer-based examination.
+
+The exact:
+
 - Examination date
-- Eligibility criteria
-- Application fee
-- Required documents
-- Photograph and identity requirements
+- Application window
 - Examination centres
+- Eligibility requirements
+- Fee
+- Number of questions
 - Examination pattern
-- Result requirements
+- Qualifying criteria
+- Result process
 
-These details may change between examination sessions.
+may change between examination sessions.
 
----
-
-## 4. Application Process
-
-A typical application process involves:
-
-1. Reading the current official information bulletin
-2. Creating or accessing the required candidate account
-3. Completing the application form
-4. Uploading the required documents
-5. Paying the examination fee
-6. Completing any required verification process
-7. Downloading the admit card when released
-8. Appearing for the examination
-
-The exact procedure should always be taken from the current NBEMS notification.
+Therefore, candidates should use the **information bulletin for the specific examination session** rather than relying on an older examination pattern.
 
 ---
 
-## 5. Documents
+# 6. Eligibility Documentation
 
-The documents required can depend on the candidate's circumstances and the current examination notification.
+Depending on the applicable rules and examination session, candidates may need documentation relating to their primary medical qualification and medical education.
 
-Candidates should carefully review the current information bulletin before submitting an application.
+Potential documentation can include:
 
-Common categories of documentation may include:
-
+- Primary medical qualification
+- Degree certificate
+- Academic transcripts
+- Internship documentation
+- Clerkship documentation
+- Passport
 - Identity documents
-- Passport-related documentation
-- Medical qualification documents
-- Academic records
-- Internship-related documents where applicable
-- Photographs
+- Proof of admission/enrolment
 - Other documents specified by NBEMS
 
-**Do not assume that a document accepted in a previous examination session will automatically be accepted in a future session.**
+The exact documentation requirements must be checked against the relevant NBEMS information bulletin.
 
 ---
 
-## 6. Examination Preparation
+# 7. Passing FMGE
 
-FMGE preparation is a separate topic from the administrative process.
+Passing FMGE is an important step in the registration pathway, but it should not be interpreted as equivalent to unrestricted medical registration.
 
-Candidates commonly use:
+An FMG who has passed the examination may still need to complete applicable requirements such as:
 
-- Standard medical textbooks
-- Question banks
-- Previous-year questions
-- Mock examinations
-- Revision notes
-- Peer discussion and study groups
+1. Provisional registration
+2. Compulsory Rotating Medical Internship (CRMI)
+3. Completion documentation
+4. Permanent registration
 
-This guide should avoid endorsing a particular commercial preparation platform unless there is a clear reason to include it.
+The applicable sequence depends on the regulations governing the individual.
 
 ---
 
-## 7. Results
+# 8. CRMI After FMGE
 
-After the examination, candidates should obtain their result through the official NBEMS process.
+For FMGs who are required to complete CRMI, the internship is a separate stage from the examination.
 
-Keep copies of:
+NMC publishes information concerning CRMI allocation.
 
-- Result documentation
-- Score-related documentation
-- Admit card
-- Application records
-- Important correspondence
+For Academic Year 2026–27, NMC published an institution-wise matrix identifying CRMI seats available to FMG students.
 
-These records may be useful during subsequent registration procedures.
+The allocation process should not be interpreted as unrestricted direct admission to any listed institution.
+
+State Medical Councils, Directorates of Medical Education and individual institutions may have additional procedures.
+
+See:
+
+**[Telangana — FMG Internship & Registration](../states/telangana.md)**
+
+for the Telangana-specific 2026–27 CRMI dataset currently documented in this guide.
 
 ---
 
-## 8. After Passing FMGE
+# 9. Examination vs Registration
 
-Passing FMGE is an important milestone, but it may **not** be the final step before independent medical practice.
+These are separate processes.
 
-Depending on the applicable regulations, the graduate may still need to complete:
+| Stage | Main function |
+|---|---|
+| **FMGE** | Screening/licensing examination for applicable FMGs |
+| **Provisional registration** | Permits the applicable internship/CRMI stage |
+| **CRMI** | Required practical internship for applicable FMGs |
+| **Permanent registration** | Registration required for independent medical practice, subject to applicable rules |
 
+Passing the examination should therefore not be treated as the final step.
+
+---
+
+# 10. Common Mistakes
+
+FMGs should avoid relying on:
+
+- Outdated FMGE information
+- Old examination patterns
+- Unverified Telegram/WhatsApp messages
+- Unofficial lists of colleges
+- Claims that a particular college "guarantees" an internship
+- Old state-level procedures
+- Screenshots without dates
+- Advice that does not identify its regulatory source
+
+When information conflicts, identify **which authority issued the information and when**.
+
+---
+
+# 11. Source Hierarchy
+
+For this guide, information should generally be prioritised in the following order:
+
+### 1. National Medical Commission
+
+Use for:
+
+- Medical registration regulations
+- FMG regulations
+- CRMI regulations
+- FMG eligibility
+- Registration framework
+- Regulatory clarifications
+
+Official website:
+
+https://www.nmc.org.in/
+
+### 2. National Board of Examinations in Medical Sciences
+
+Use for:
+
+- FMGE application
+- Information bulletins
+- Examination dates
+- Examination centres
+- Admit cards
+- Results
+- Examination notices
+
+Official website:
+
+https://natboard.edu.in/
+
+### 3. State Medical Councils
+
+Use for:
+
+- State-specific registration
 - Provisional registration
-- Internship / supervised training
-- Required documentation
-- Verification
 - Permanent registration
+- State-specific procedures
 
-See the [FMG → Indian Medical Registration Pathway](../pathway.md) for the broader process.
+### 4. Directorate of Medical Education / State Government
 
----
+Use for:
 
-## 9. Common Mistakes
+- State internship allocation
+- Institutional allotment procedures
+- State-specific administrative instructions
 
-FMGs should be particularly careful about:
+### 5. Medical institutions
 
-### Relying on outdated information
+Use for:
 
-Rules and procedures can change.
+- Institution-specific requirements
+- Fees
+- Hostel
+- Joining procedures
+- Department rotations
+- Documentation
 
-### Confusing examination qualification with medical registration
+### 6. Community reports
 
-Passing an examination and obtaining permission to practise are separate administrative steps.
-
-### Relying entirely on unofficial sources
-
-Reddit, Telegram, WhatsApp groups, YouTube videos, and personal experiences can be useful, but they should not replace current official documentation.
-
-### Losing documentation
-
-Keep digital and physical copies of important academic, examination, registration, and internship documents.
-
----
-
-## 10. Official Sources
-
-The primary source for examination-related information should be **NBEMS**.
-
-For regulatory and registration matters, also consult:
-
-- National Medical Commission (NMC)
-- Relevant State Medical Council
-- Other competent government authorities
-
-> **Source policy:** Wherever possible, this guide should link directly to the original government or regulatory document rather than citing a secondary website that merely summarizes it.
+Useful for identifying practical experiences, but should not be presented as official requirements without corroboration.
 
 ---
 
-## Frequently Asked Questions
+# 12. Primary Sources
 
-### Does passing FMGE mean I can immediately start practising?
+### National Medical Commission
 
-Not necessarily.
+https://www.nmc.org.in/
 
-Passing the examination is one component of the broader process. Registration and any applicable internship or supervised training requirements must also be completed.
+### National Board of Examinations in Medical Sciences
 
-### Are FMGE rules permanent?
+https://natboard.edu.in/
 
-No. Regulatory requirements and examination procedures can change.
+### NMC — Rules & Regulations
 
-Always check the latest official notification.
+https://www.nmc.org.in/rules-regulations/
 
-### Can I rely on information from another FMG?
+### NMC — FMG-related information
 
-Personal experiences can be extremely useful for understanding how a process works in practice, but individual experiences should not be treated as universal rules.
+https://www.nmc.org.in/information-desk/for-students-to-study-abroad/
+
+---
+
+# 13. Verification History
+
+| Date | Information checked | Source |
+|---|---|---|
+| 23 September 2026 | Current NMC FMG regulatory resources | NMC |
+| 23 September 2026 | Current examination authority | NBEMS |
+| 23 September 2026 | 2026–27 CRMI allocation framework | NMC |
 
 ---
 
 ## Page status
 
-**Status:** Initial framework
+**Status:** FMGE reference framework
 
-This page will be expanded with:
-
-- Current eligibility requirements
-- Official application instructions
-- Examination structure
-- Frequently encountered administrative problems
-- Document checklists
-- Links to official notifications
-- Historical changes in the FMGE process
-- Community experiences, clearly labelled as such
+**Next update:** Add session-specific FMGE examination information from the current NBEMS Information Bulletin when required.
