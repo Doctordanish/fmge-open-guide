@@ -1,20 +1,21 @@
-subject,category,priority,evidence_status,notes,verification_date
-Anatomy,Pre-clinical,To be determined,Framework only,,2026-09-23
-Physiology,Pre-clinical,To be determined,Framework only,,2026-09-23
-Biochemistry,Pre-clinical,To be determined,Framework only,,2026-09-23
-Pathology,Para-clinical,To be determined,Framework only,,2026-09-23
-Pharmacology,Para-clinical,To be determined,Framework only,,2026-09-23
-Microbiology,Para-clinical,To be determined,Framework only,,2026-09-23
-Forensic Medicine,Para-clinical,To be determined,Framework only,,2026-09-23
-Community Medicine,Para-clinical,To be determined,Framework only,,2026-09-23
-Medicine,Clinical,To be determined,Framework only,,2026-09-23
-Psychiatry,Clinical,To be determined,Framework only,,2026-09-23
-Dermatology,Clinical,To be determined,Framework only,,2026-09-23
-Pediatrics,Clinical,To be determined,Framework only,,2026-09-23
-Surgery,Clinical,To be determined,Framework only,,2026-09-23
-Orthopedics,Clinical,To be determined,Framework only,,2026-09-23
-Anaesthesiology,Clinical,To be determined,Framework only,,2026-09-23
-Radiodiagnosis,Clinical,To be determined,Framework only,,2026-09-23
-Obstetrics and Gynecology,Clinical,To be determined,Framework only,,2026-09-23
-Ophthalmology,Clinical,To be determined,Framework only,,2026-09-23
-Otorhinolaryngology,Clinical,To be determined,Framework only,,2026-09-23
+subject,official_section,official_marks,category,priority,evidence_status,notes,verification_date
+Anatomy,Pre/Para-clinical,17,Pre/Para-clinical,To be determined,Official blueprint,Official NBEMS allocation: 17 marks,2026-09-23
+Physiology,Pre/Para-clinical,17,Pre/Para-clinical,To be determined,Official blueprint,Official NBEMS allocation: 17 marks,2026-09-23
+Biochemistry,Pre/Para-clinical,17,Pre/Para-clinical,To be determined,Official blueprint,Official NBEMS allocation: 17 marks,2026-09-23
+Pathology,Pre/Para-clinical,13,Pre/Para-clinical,To be determined,Official blueprint,Official NBEMS allocation: 13 marks,2026-09-23
+Microbiology,Pre/Para-clinical,13,Pre/Para-clinical,To be determined,Official blueprint,Official NBEMS allocation: 13 marks,2026-09-23
+Pharmacology,Pre/Para-clinical,13,Pre/Para-clinical,To be determined,Official blueprint,Official NBEMS allocation: 13 marks,2026-09-23
+Forensic Medicine,Pre/Para-clinical,10,Pre/Para-clinical,To be determined,Official blueprint,Official NBEMS allocation: 10 marks,2026-09-23
+Medicine,Clinical,33,Medicine and Allied Subjects,To be determined,Official blueprint,Official NBEMS allocation: 33 marks,2026-09-23
+Psychiatry,Clinical,5,Medicine and Allied Subjects,To be determined,Official blueprint,Official NBEMS allocation: 5 marks,2026-09-23
+Dermatology and STD,Clinical,5,Medicine and Allied Subjects,To be determined,Official blueprint,Official NBEMS allocation: 5 marks,2026-09-23
+Radiotherapy,Clinical,5,Medicine and Allied Subjects,To be determined,Official blueprint,Official NBEMS allocation: 5 marks,2026-09-23
+General Surgery,Clinical,32,General Surgery and Allied Subjects,To be determined,Official blueprint,Official NBEMS allocation: 32 marks,2026-09-23
+Anaesthesiology,Clinical,5,General Surgery and Allied Subjects,To be determined,Official blueprint,Official NBEMS allocation: 5 marks,2026-09-23
+Orthopedics,Clinical,5,General Surgery and Allied Subjects,To be determined,Official blueprint,Official NBEMS allocation: 5 marks,2026-09-23
+Radiodiagnosis,Clinical,5,General Surgery and Allied Subjects,To be determined,Official blueprint,Official NBEMS allocation: 5 marks,2026-09-23
+Pediatrics,Clinical,15,Clinical Subjects,To be determined,Official blueprint,Official NBEMS allocation: 15 marks,2026-09-23
+Ophthalmology,Clinical,15,Clinical Subjects,To be determined,Official blueprint,Official NBEMS allocation: 15 marks,2026-09-23
+ENT,Clinical,15,Clinical Subjects,To be determined,Official blueprint,Official NBEMS allocation: 15 marks,2026-09-23
+Obstetrics and Gynaecology,Clinical,30,Clinical Subjects,To be determined,Official blueprint,Official NBEMS allocation: 30 marks,2026-09-23
+Community Medicine,Clinical,30,Clinical Subjects,To be determined,Official blueprint,Official NBEMS allocation: 30 marks,2026-09-23
